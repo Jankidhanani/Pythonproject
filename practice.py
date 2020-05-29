@@ -38,8 +38,8 @@
 #     print (res)
 
 # sub()
-<<<<<<< HEAD
 print("I am in the training")
-=======
 print("Welcome")
->>>>>>> 196862c48f93ec58cb8d9a1e0a71577a078f6c5d
+a=10
+b=20
+print("addition is ", a+b)
