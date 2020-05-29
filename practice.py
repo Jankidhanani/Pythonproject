@@ -38,3 +38,4 @@
 #     print (res)
 
 # sub()
+print("I am in the training")
