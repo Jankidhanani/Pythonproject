@@ -47,6 +47,13 @@
 # x=input("Enter a sentence").upper()
 # print(x)
 
+print("Ans. 6")
+x=[1,2,3,4]
+y=[5,6,7,8]
+
+w=list(map(lambda x,y:x+y, x,y))
+print(w)
+
 # print("Ans. 8")
 
 # def ans():
