@@ -51,9 +51,10 @@
 # print("f datatype is = ", type(f))
 # print("t datatype is = ", type(t))
 
-print("Ans. 7")
-a=("consultadd".upper())
-print(a)
+# print("Ans. 7")
+# a=("consultadd".upper())
+# print(a)
 
-print("Ans. 8")
-print("Yes, whenever you assign diffrent value to same variable, it takes the last assigned value by default becasue Python is having imperative characteristics")
+# print("Ans. 8")
+# print("Yes, whenever you assign diffrent value to same variable, it takes the last assigned value by default becasue Python is having imperative characteristics")
+

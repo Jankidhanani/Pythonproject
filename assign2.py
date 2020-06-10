@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # print("Ans. 1")
 # x=(int(input("Enter valur for x = ")))
 # if x%3==0:
@@ -136,5 +137,5 @@ for i in x:
 
 print("Digits", d["Digits"])
 print("Letters", d["Letters"])
-
-
+=======
+>>>>>>> 9f5894c1b9d4fd7665c51cb373eb3fc2aa3d4500
